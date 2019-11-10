@@ -7,3 +7,8 @@ class CompteBancaire:
      self._numero=CompteBancaire._modele +
         str(CompteBancaire._nombreComptes)
      CompteBancaire._nombreComptes +=1
+    def_retire_(self):
+      C=self.identifiecompte()
+      Print("quel montant?")
+       X=out(in put("")
+       C.retire(x)
